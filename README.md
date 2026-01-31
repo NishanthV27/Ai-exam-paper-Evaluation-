@@ -1,4 +1,4 @@
-# 📘 AI Powered Exam Paper Evaluation System using Flask and Machine Learning
+# 📘 AI Powered Exam Paper Evaluation System
 
 ## 📌 Project Overview
 
